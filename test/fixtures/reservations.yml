@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  checkin_at: 2023-09-27 15:16:45
+  checkout_at: 2023-09-27 15:16:45
+  price: 9.99
+  guest_name: MyString
+  external_reservation_id: 1
+  external_listing_id: 1
+  channel_name: MyString
+
+two:
+  checkin_at: 2023-09-27 15:16:45
+  checkout_at: 2023-09-27 15:16:45
+  price: 9.99
+  guest_name: MyString
+  external_reservation_id: 1
+  external_listing_id: 1
+  channel_name: MyString
